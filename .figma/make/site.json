@@ -1,0 +1,10 @@
+{
+  "description": "Streamline parish management with an interactive platform for parishioners and staff, enabling service scheduling, document requests, and real-time tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
